@@ -254,7 +254,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554172760775</updated>
-      <workItem from="1554172771733" duration="3659000" />
+      <workItem from="1554172771733" duration="3940000" />
     </task>
     <task id="LOCAL-00001" summary="commit Message">
       <created>1554175582245</created>
@@ -270,11 +270,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554175664621</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit Idea整体GitHab测试">
+      <created>1554177001504</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554177001504</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3659000" />
+    <option name="totallyTimeSpent" value="3940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -317,8 +324,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
     <MESSAGE value="commit Message" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit Message" />
+    <MESSAGE value="Commit Idea整体GitHab测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Idea整体GitHab测试" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
